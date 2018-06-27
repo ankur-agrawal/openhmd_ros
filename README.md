@@ -1,3 +1,7 @@
+# Original Repository:
+
+https://github.com/h3ct0r/openhmd_ros.git
+
 # openhmd_ros
 
 Bindings between OpenHMD and ROS. This will be able to put images onto the Oculus Rift and read the IMU information from ROS nodes on Linux.
